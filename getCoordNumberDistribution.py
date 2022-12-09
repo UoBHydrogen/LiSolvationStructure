@@ -7,7 +7,6 @@
 # Nature Energy, 2020, 5(7): 526-533.
 # DOI: 10.1038/s41560-020-0634-5
 # the default trajectory and MD setting are rdf.xtc and rdf.tpr, respectively
-# For questions, reach Xian Kong at xianshine@gmail.com
 #--------------------------------------------------------------------------------------------
 
 
